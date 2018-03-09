@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: xecjk
+# key: xecjk
+# --
+
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setmainfont{Arial}
+#+LATEX_HEADER: \setCJKmainfont[BoldFont={SimHei},ItalicFont={KaiTi}]{SimSun}
+#+LATEX_HEADER: \setCJKsansfont{SimHei}
+#+LATEX_HEADER: \setCJKmonofont{SimSun}
+#+LATEX_HEADER: \setCJKfamilyfont{rm}[BoldFont={SimHei},ItalicFont={KaiTi}]{SimSun}
+

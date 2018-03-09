@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: header
+# key: header
+# --
+
+#+TITLE:     $1
+#+AUTHOR:    crackhopper
+#+EMAIL:     crackhopper@gmail.com
+#+DATE:      `(format-time-string "%Y-%m-%d %a " (current-time))`na
+#+DESCRIPTION: 
+#+KEYWORDS: 
