@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# name: ltxh
-# key: ltxh
-# --
-
-#+LATEX_HEADER: ${1:\usepackage{$2}} 
